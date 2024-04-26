@@ -1,0 +1,23 @@
+{
+  "name": "print-all-button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "print.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "axios": "^1.6.8",
+    "barcode": "^0.1.0",
+    "bwip-js": "^4.3.2",
+    "fs": "^0.0.1-security",
+    "html-pdf": "^3.0.1",
+    "jsbarcode": "^3.11.6",
+    "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.15.0"
+  }
+}
